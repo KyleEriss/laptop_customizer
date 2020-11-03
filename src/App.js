@@ -1,3 +1,4 @@
+/* react */
 import React, { Component } from 'react';
 
 // Normalizes string as a slug - a string that is safe to use
